@@ -1,0 +1,21 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.navigation-menu li{
+    margin: 0 32px;
+    display: flex;
+    gap: 10px;
+}
+.navigation-menu li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #5C5C5C;
+}
+.navigation-menu span{
+    font-size: 20px;
+    color: #5C5C5C;
+    padding-top: 9px;
+}
